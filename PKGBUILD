@@ -1,6 +1,6 @@
 pkgname=print-iommu
-pkgver=0.21 
-pkgrel=0
+pkgver=1.0 
+pkgrel=1
 pkgdesc="Prints iommu groups, created by @r15ch13" 
 arch=('x86_64')
 url=TBD
