@@ -4,6 +4,6 @@ DIRNAME := $(shell basename $(shell dirname $(realpath $(lastword $(MAKEFILE_LIS
 all: build
 
 build:    
-    makepkg -si 
+	makepkg -si 
 
 
